@@ -1,3 +1,7 @@
+# 1.1 to 1.5: course information (App and App2)
+
+To run Unicafe exercises, just change on index the line 4 to "import App from './App'" or "import App from './App2'" after save it is just run `npm start` on the terminal, and Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 # 1.6 to 1.11: unicafe (AppFeedback)
 
 To run Unicafe exercises, just change on index the line 4 to "import App from './AppFeedback'" after save it is just run `npm start` on the terminal, and Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
